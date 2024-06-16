@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Simple Search Engine (Java)/*
+!/Simple Search Engine (Java)/task/
+/Simple Search Engine (Java)/task/*
+!/Simple Search Engine (Java)/task/src
